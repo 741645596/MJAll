@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e34d2e422b6ea44b29cbfee02831cd29, type: 3}
+  m_Name: MJSpaceMockData
+  m_EditorClassIdentifier: 
+  deskCards:
+  - 1,2,1,2,1,2,1,2,2,1,2,1,2,1,2,55,54,53,52,51,50
+  - 1,2,1,2,1,2,1,2,2,1,2,1,2,1,2,55,54,53,52,51,50
+  - 1,2,1,2,1,2,1,2,2,1,2,1,2,1,2,55,54,53,52,51,50
+  - 1,2,1,2,1,2,1,2,2,1,2,1,2,1,2,55,54,53,52,51,50
+  handCards:
+  - 1,2
+  - 1,2
+  - 1,2,1,2,1,2,1,2,1,2,1,2,1,2
+  - 1,2
+  winCards:
+  - 1,2,3,4
+  - 1,2,3,4
+  - 1,2,3,4
+  - 1,2,3,4
+  meldCards0:
+  - 49,50,51,52
+  - 49,50,51,52
+  - 49,50,51,52
+  - 49,50,51,52
+  - 53,54,55
+  meldCards1:
+  - 49,50,51,52
+  - 49,50,51,52
+  - 49,50,51,52
+  - 49,50,51,52
+  - 53,54,55
+  meldCards2:
+  - 49,50,51,52
+  - 49,50,51,52
+  - 49,50,51,52
+  - 49,50,51,52
+  - 53,54,55
+  meldCards3:
+  - 49,50,51,52
+  - 49,50,51,52
+  - 49,50,51,52
+  - 49,50,51,52
+  - 53,54,55
+  dice1: 1
+  dice2: 3
+  takeWallCount: 0
+  takeWallCountBack: 1

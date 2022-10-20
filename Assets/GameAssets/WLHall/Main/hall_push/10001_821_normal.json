@@ -1,0 +1,234 @@
+{
+    "0": {
+      "gold": {
+        "main": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "left": [
+          11,
+          13
+        ],
+        "city": [
+          13,
+          8,
+          9
+        ],
+        "cityRight": [
+          14
+        ]
+      },
+      "friend": {
+        "main": [
+          3,
+          4
+        ],
+        "more": [
+          8,
+          9
+        ]
+      }
+    },
+    "230000": {
+      "gold": {
+        "main": [
+          0,
+          1,
+          2
+        ],
+        "left": [
+          11,
+          12
+        ],
+        "city": [
+          13,
+          8,
+          9
+        ],
+        "cityRight": [
+          15,
+          16
+        ]
+      },
+      "friend": {
+        "main": [
+          3,
+          5,
+          4,
+          6,
+          7
+        ],
+        "more": [
+          8,
+          9,
+          10
+        ]
+      }
+    },
+    "db": [
+      {
+        "category": 4,
+        "type": 1,
+        "show": 0,
+        "name": "比赛",
+        "icon": "",
+        "shortname": "ddzh",
+        "id": 1,
+        "games" : [15, 16, 17]
+      },
+      {
+        "category": 1,
+        "type": 1,
+        "show": 0,
+        "name": "斗地主",
+        "icon": ""
+      },
+      {
+        "category": 2,
+        "type": 1,
+        "show": 0,
+        "name": "扑克馆",
+        "icon": "",
+        "shortname": "",
+        "id": 0,
+        "games" : [1, 5]
+      },
+      {
+        "category": 2,
+        "type": 1,
+        "show": 0,
+        "name": "麻将馆",
+        "icon": "",
+        "shortname": "",
+        "id": 0,
+        "games" : [15, 16, 17]
+      },
+      {
+        "category": 1,
+        "type": 1,
+        "show": 0,
+        "name": "娱乐馆",
+        "icon": "",
+        "shortname": "",
+        "id": 0,
+        "games" : [11, 13]
+      },
+      {
+        "category": 1,
+        "type": 1,
+        "show": 0,
+        "name": "二人斗地主",
+        "icon": "",
+        "shortname": "erdz",
+        "id": 29
+      },
+      {
+        "category": 1,
+        "type": 1,
+        "show": 0,
+        "name": "三打一",
+        "icon": "",
+        "shortname": "sdyi",
+        "id": 24
+      },
+      {
+        "category": 1,
+        "type": 1,
+        "show": 0,
+        "name": "填大坑",
+        "icon": "",
+        "shortname": "tdak",
+        "id": 5
+      },
+      {
+        "category": 1,
+        "type": 1,
+        "show": 0,
+        "name": "升级",
+        "icon": "",
+        "shortname": "shji",
+        "id": 587
+      },
+      {
+        "category": 1,
+        "type": 1,
+        "show": 0,
+        "name": "干瞪眼",
+        "icon": "",
+        "shortname": "gady",
+        "id": 258
+      },
+      {
+        "category": 1,
+        "type": 1,
+        "show": 0,
+        "name": "刨幺",
+        "icon": "",
+        "shortname": "dbpy",
+        "id": 203
+      },
+      {
+        "category": 1,
+        "type": 2,
+        "show": 0,
+        "name": "微乐捕鱼",
+        "icon": "",
+        "wxid": "wx31fa4358d97a7923",
+        "product_id": 263
+      },
+      {
+        "category": 1,
+        "type": 2,
+        "show": 0,
+        "name": "中国象棋",
+        "icon": "",
+        "wxid": "wx9a2ea456ab1140eb",
+        "product_id": "419"
+      },
+      {
+        "category": 2,
+        "type": 2,
+        "show": 0,
+        "name": "合集test",
+        "icon": "",
+        "games": [11, 12]
+      },
+      {
+        "category": 4,
+        "type": 0,
+        "show": 0,
+        "name": "跑得快",
+        "icon": ""
+      },
+      {
+        "category": 1,
+        "type": 2,
+        "show": 0,
+        "name": "血流血战",
+        "icon": "https://assets.weile.com/icon/common/type1/1583825817xueliuxuezhan.png?t=1594792665",
+        "wxid": "wxa27ca98aa5ed1a87",
+        "product_id": "1001"
+      },
+      {
+        "category": 1,
+        "type": 2,
+        "show": 0,
+        "name": "微乐龙江麻将",
+        "icon": "",
+        "wxid": "wx6bfc2e4810cba040",
+        "product_id": "109"
+      },
+      {
+        "category": 1,
+        "type": 2,
+        "show": 0,
+        "name": "血流血战",
+        "icon": "https://assets.weile.com/icon/common/type1/1583825817xueliuxuezhan.png?t=1594792455",
+        "wxid": "wx6bfc2e4810cba040",
+        "product_id": "109"
+      }
+    ]
+  }

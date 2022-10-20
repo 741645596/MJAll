@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: gang_m_zi_h_01_01
+  m_Shader: {fileID: 4800000, guid: ca3c55e0ebe9d4c43a02fb88eba1e20b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DisTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 68c364d5f23416b40abbde8524d4f86c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0.09, y: 0.28}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 433f3c6fa201e7c469719ccf24163322, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TwistTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexAnimateTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CullMode: 0
+    - _DisEdgeSmooth: 0
+    - _DisEdgeValue: 0
+    - _DisScrollingX: 0
+    - _DisScrollingY: 0
+    - _DisTwistScale: 0
+    - _DisValue: 0
+    - _DstBlend: 1
+    - _FresnelPower: 30
+    - _FresnelStrenght: 0
+    - _InvFade: 1
+    - _MainTexRotate: 31.62
+    - _MainTexSpeed_U: 0
+    - _MainTexSpeed_V: 0
+    - _MainTwistScale: 0
+    - _MaskTexSpeed_U: 0
+    - _MaskTexSpeed_V: 0
+    - _SrcBlend: 5
+    - _TwistScrollingX: 0
+    - _TwistScrollingY: 0
+    - _VertexScrollingX: 0
+    - _VertexScrollingY: 0
+    - _VertexStrength: 0
+    - _ZTest: 4
+    - _ZWrite: 0
+    m_Colors:
+    - _Color: {r: 5.2464113, g: 1.9762795, b: 0.81665844, a: 1}
+    - _DisEdgeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.7075472, g: 0.7075472, b: 0.7075472, a: 0.5}
+  m_BuildTextureStacks: []

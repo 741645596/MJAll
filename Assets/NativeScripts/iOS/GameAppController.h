@@ -1,0 +1,6 @@
+
+@interface GameAppController : UnityAppController
+{
+}
+
+@end

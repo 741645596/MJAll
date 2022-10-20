@@ -1,0 +1,40 @@
+{
+    "unity_path_mac": "/Applications/Unity/Hub/Editor/2020.3.15f2c1/Unity.app/Contents/MacOS/Unity",
+    "unity_path_win": "C:/Program Files/Unity/Hub/Editor/2020.3.15f2c1/Editor/",
+    "apk_path": "/Users/tanjinhua/.jenkins/workspace/AndroidPackge/BuildTarget/Android/UnityRuntime.apk",
+    "msbuild_win_path": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/",
+    "msbuild_mac_path": "/Library/Frameworks/Mono.framework/Versions/6.12.0/bin/MSBuild",
+    "unity_project": "../../../UnityRuntime",
+    "csproj": [
+        "../../../../../UnityRuntime/Assets/GameAssets/WLHall/CSProject~/WLHall/wlhall.csproj",
+        "../../../../../UnityRuntime/Assets/GameAssets/Common/CSProject~/Common/Common.csproj",
+        "../../../../../UnityRuntime/Assets/GameAssets/MJCommon/CSProject~/MJCommon/MJCommon.csproj",
+        "../../../../../UnityRuntime/Assets/GameAssets/xlhz/CSProject~/xlhz/xlhz.csproj"
+    ],
+    "android_studio_project": [
+        "../../../../AndroidProject"
+    ],
+    "git_project": [
+        "../../../../../UnityRuntime",
+        "../../../../../UnityRuntime/Assets/GameAssets/Common",
+        "../../../../../UnityRuntime/Assets/GameAssets/WLHall",
+        "../../../../../UnityRuntime/Assets/GameAssets/MJCommon",
+        "../../../../../UnityRuntime/Assets/GameAssets/xlhz"
+    ],
+    "assetsbundle_dirname": [
+        [
+            "wlhall",
+            "common",
+            "mjcommon",
+            "xlhz"
+        ]
+    ],
+    "branch_list": [
+        "master",
+        "master",
+        "master",
+        "master",
+        "master"
+    ],
+    "assetsbundle_platform": "android"
+}

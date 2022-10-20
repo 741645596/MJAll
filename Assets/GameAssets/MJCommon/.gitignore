@@ -1,0 +1,6 @@
+!CSProject~
+CSProject~/MJCommon/.vs
+CSProject~/MJCommon/obj
+CSProject~/MJCommon/bin
+*.psd
+*.psd.meta

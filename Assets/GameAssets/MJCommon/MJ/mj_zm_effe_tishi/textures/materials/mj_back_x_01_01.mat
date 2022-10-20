@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mj_back_x_01_01
+  m_Shader: {fileID: 4800000, guid: 6a03cea1c97a6db40bc815cd5808ef71, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AoMask:
+        m_Texture: {fileID: 2800000, guid: e515d2b4e289a434a92cba0ee85fbfed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: cf58d4cf17cfee64d88165c78ee4a15d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: bb82ef5f2126563428f0092a6feb3680, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: cf58d4cf17cfee64d88165c78ee4a15d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 411aef21c2c34c442808000800826af6, type: 3}
+        m_Scale: {x: 1, y: 1.39}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCapDiffuse:
+        m_Texture: {fileID: 2800000, guid: cc2aae0fc191b3247b4865982dffb352, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RMAMask:
+        m_Texture: {fileID: 2800000, guid: cc8e90e367b70e94bae691ac66e857d6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecCube:
+        m_Texture: {fileID: 8900000, guid: 7090030799a184a4fb9e7689a673341f, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TwistTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexAnimateTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Ao: 3.18
+    - _CullMode: 0
+    - _DarkInt: 100
+    - _DarkSide: 1
+    - _DisEdgeSmooth: 0
+    - _DisEdgeValue: 0
+    - _DisScrollingX: 0
+    - _DisScrollingY: 0
+    - _DisTwistScale: 0
+    - _DisValue: 0
+    - _DstBlend: 10
+    - _Emission: 0.43
+    - _EmissionInt: 1
+    - _FresnelPower: 3
+    - _FresnelStrenght: 10
+    - _FrontInt: 1.0274
+    - _Intensity: 2.43
+    - _LightInt: 0
+    - _LightRadius: 52
+    - _MainTexRotate: 0
+    - _MainTexSpeed_U: 0
+    - _MainTexSpeed_V: 0
+    - _MainTwistScale: 0
+    - _MaskTexSpeed_U: 0
+    - _MaskTexSpeed_V: 0
+    - _MatCapInt: 0
+    - _MatCapRotation: 0
+    - _MatcapInt: 0.24
+    - _Metallic: 0.825
+    - _ReflectionSmooth: 0
+    - _Shininess: 45.1
+    - _ShininessI: 3
+    - _SideInt: 1.0741
+    - _Smooth: 0
+    - _SmoothEnv: 0.3
+    - _SmoothSide: 0.503
+    - _SpecCubeInt: 0.615
+    - _Specular: 0.3
+    - _SrcBlend: 5
+    - _TwistScrollingX: 0
+    - _TwistScrollingY: 0
+    - _VertexScrollingX: 0
+    - _VertexScrollingY: 0
+    - _VertexStrength: 0
+    - _XRimShininess: 24
+    - _XTitles: 0
+    - _YRimShininess: 8
+    - _YTitles: 0
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _matcapInt: 1.22
+    m_Colors:
+    - _AmbientColor: {r: 0.8584906, g: 0.8247449, b: 0.75725347, a: 1}
+    - _Color: {r: 0.972549, g: 0.92941177, b: 0.89411765, a: 1}
+    - _DisEdgeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 3.91623, g: 3.9999995, b: 2.2617798, a: 1}
+    - _EnvColor: {r: 0.94509804, g: 0.94509804, b: 0.94509804, a: 1}
+    - _EnvDir: {r: 0, g: 0.5, b: 0.5, a: 1}
+    - _FirstLight: {r: 0, g: 0, b: 1, a: 0}
+    - _FresnelColor: {r: 0.12459949, g: 0.754717, b: 0.5549111, a: 1}
+    - _LightDir: {r: 0, g: 1, b: -0.5, a: 1}
+    - _LightDir1: {r: 0, g: 2, b: 0.5, a: 1}
+    - _LightDir3: {r: 0, g: 1, b: 0, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SecondColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SecondLight: {r: 0, g: 0, b: 0, a: 0}
+    - _SpeDir: {r: 0, g: 0.85, b: -0.5, a: 1}
+    - _SpecColor: {r: 0.75625545, g: 0.764151, b: 0.68124783, a: 1}
+    - _SpecularColor: {r: 0, g: 0, b: 0, a: 1}
+    - _XRimDir: {r: 1.07, g: 5.42, b: 1.06, a: 1}
+    - _YRimDir: {r: 4.16, g: 6.14, b: 2.74, a: 1}
+  m_BuildTextureStacks: []

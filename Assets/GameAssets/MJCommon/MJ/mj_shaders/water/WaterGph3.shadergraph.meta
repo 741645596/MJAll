@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ee9ef67cb7ad1314685309655ef76fc2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: mj/mj_shaders
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
